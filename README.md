@@ -1,6 +1,6 @@
 <!-- ============ HEADER BANNER ============ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20&section=header&text=Shailesh%20Patil&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20%26%20AI%20Enthusiast&descSize=20&descAlignY=58" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&section=header&text=Shailesh%20Patil&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Scientist&descSize=20&descAlignY=60" alt="Shailesh Patil" />
 </p>
 
 <p align="center">
@@ -89,10 +89,12 @@ class ShaileshPatil:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,java,cpp,js,mysql,sqlite,flask,pytorch,numpy,pandas,git,github,vscode&perline=7" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=py,r,java,cpp,js,mysql,sqlite,flask,pytorch,git,github,vscode&perline=7" alt="skills" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
@@ -107,10 +109,6 @@ class ShaileshPatil:
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=shailesh-23-patil&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shailesh-23-patil&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook&langs_count=6" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shailesh-23-patil&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 <!--
