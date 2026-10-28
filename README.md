@@ -1,6 +1,6 @@
 <!-- ============ HEADER BANNER ============ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&section=header&text=Shailesh%20Patil&fontSize=58&fontColor=ffffff&fontAlignY=38&descSize=20&descAlignY=60" alt="Shailesh Patil" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&section=header&text=Shailesh%20Patil&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Scientist&descSize=20&descAlignY=60" alt="Shailesh Patil" />
 </p>
 
 <p align="center">
@@ -40,47 +40,47 @@ class ShaileshPatil:
 <!-- ============ PROJECTS ============ -->
 ## 🚀 Featured Projects
 
-> 📌 Replace the placeholders with your best 3 to 4 projects, and pin the same repos on your profile.
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 Project Name 1</h3>
-      <p>One line: the problem it solves and the key result (e.g. <b>90% R²</b>).</p>
+      <h3>🤖 CampusGPT</h3>
+      <p>AI study assistant using <b>RAG</b>: upload PDF notes, ask questions in plain language, and get answers with <b>source and page citations</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square" />
       </p>
-      <a href="https://github.com/shailesh-23-patil/REPO-NAME">🔗 View Project</a>
+      <a href="https://github.com/shailesh-23-patil/CampusGPT">🔗 View Project</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Project Name 2</h3>
-      <p>One line: the problem it solves and the key result.</p>
+      <h3>❤️ Heart Disease Prediction</h3>
+      <p>Data cleaning, EDA, and predictive modeling to find patterns linked to heart disease.</p>
       <p>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
       </p>
-      <a href="https://github.com/shailesh-23-patil/REPO-NAME">🔗 View Project</a>
+      <a href="https://github.com/shailesh-23-patil/Heart-Disease-Prediction-ML">🔗 View Project</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Project Name 3</h3>
-      <p>One line: the problem it solves and the key result.</p>
+      <h3>🏥 Medical Insurance Cost Prediction</h3>
+      <p>Analyzes what drives insurance charges and builds models to estimate medical costs.</p>
       <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
       </p>
-      <a href="https://github.com/shailesh-23-patil/REPO-NAME">🔗 View Project</a>
+      <a href="https://github.com/shailesh-23-patil/Medical-Insurance-Cost-Prediction">🔗 View Project</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🗄️ Project Name 4</h3>
-      <p>One line: the problem it solves and the key result.</p>
+      <h3>🚗 Ford Vehicle ML Analysis</h3>
+      <p>EDA and machine learning on Ford vehicle data: preprocessing, visualization, and insights.</p>
       <p>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
       </p>
-      <a href="https://github.com/shailesh-23-patil/REPO-NAME">🔗 View Project</a>
+      <a href="https://github.com/shailesh-23-patil/Ford-Vehicle-ML-Analysis">🔗 View Project</a>
     </td>
   </tr>
 </table>
@@ -89,7 +89,7 @@ class ShaileshPatil:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,java,cpp,js,mysql,sqlite,flask,pytorch,git,github,vscode&perline=7" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=py,r,java,cpp,js,mysql,sqlite,ts,flask,pytorch,git,github,vscode&perline=7" alt="skills" />
 </p>
 
 <p align="center">
