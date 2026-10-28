@@ -1,6 +1,6 @@
 <!-- ============ HEADER BANNER ============ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&section=header&text=Shailesh%20Patil&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Scientist&descSize=20&descAlignY=60" alt="Shailesh Patil" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&section=header&text=Shailesh%20Patil&fontSize=58&fontColor=ffffff&fontAlignY=38&descSize=20&descAlignY=60" alt="Shailesh Patil" />
 </p>
 
 <p align="center">
