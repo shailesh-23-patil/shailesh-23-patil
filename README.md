@@ -1,21 +1,11 @@
-<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=6,11,20&section=header" alt="banner" />
-</p>
-
-<h1 align="center">Hi 👋 I'm Shailesh Patil</h1>
-<h3 align="center">Aspiring Data Scientist · ML &amp; AI Builder</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+real+insights+%F0%9F%93%8A;Building+AI+tools+like+CampusGPT+%F0%9F%A4%96;MCA+Student+%7C+Always+Learning+%F0%9F%9A%80;Open+to+internships+%26+opportunities+%F0%9F%92%BC" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/shailesh-23-patil/shailesh-23-patil/main/assets/header.svg" width="100%" alt="Shailesh Patil | Aspiring Data Scientist" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shailesh-23-patil&label=Profile+views&color=0e75b6&style=for-the-badge" alt="views" />
   <img src="https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=for-the-badge" alt="open to internships" />
-  <img src="https://img.shields.io/badge/Based%20in-India%20%F0%9F%87%AE%F0%9F%87%B3-orange?style=for-the-badge" alt="location" />
+  <img src="https://img.shields.io/badge/Based%20in-India-orange?style=for-the-badge" alt="location" />
 </p>
 
 <p align="center">
@@ -24,10 +14,9 @@
   <a href="https://instagram.com/shailesh.patil_23"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/shailesh-23-patil/shailesh-23-patil/main/assets/divider.svg" width="100%" alt="" /></p>
 
-<!-- ===================== ABOUT ===================== -->
-## 🧑‍💻 About Me
+<h2 align="center">🧑‍💻 About Me</h2>
 
 ```python
 class ShaileshPatil:
@@ -51,37 +40,35 @@ class ShaileshPatil:
   </tr>
 </table>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/shailesh-23-patil/shailesh-23-patil/main/assets/divider.svg" width="100%" alt="" /></p>
 
-<!-- ===================== FLAGSHIP PROJECT ===================== -->
-## ⭐ Flagship Project: CampusGPT
+<h2 align="center">⭐ Flagship Project</h2>
 
-<table>
+<table align="center">
   <tr>
     <td>
-      <h3>🤖 CampusGPT: Ask questions directly from your study material</h3>
-      <p>
-        An <b>AI-powered academic assistant</b> for students. Upload your notes or PDFs, ask questions in plain language,
+      <h3 align="center">🤖 CampusGPT</h3>
+      <p align="center">
+        An <b>AI-powered academic assistant</b> for students. Upload your notes or PDFs, ask questions in plain language,<br/>
         and get answers grounded in your own documents, with <b>source and page citations</b>, using Retrieval-Augmented Generation (RAG).
       </p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
         <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge" />
         <img src="https://img.shields.io/badge/RAG-Pipeline-2ea44f?style=for-the-badge" />
       </p>
-      <p>
+      <p align="center">
         <a href="https://github.com/shailesh-23-patil/CampusGPT"><img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
 </table>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/shailesh-23-patil/shailesh-23-patil/main/assets/divider.svg" width="100%" alt="" /></p>
 
-<!-- ===================== MORE PROJECTS ===================== -->
-## 🚀 More Projects
+<h2 align="center">🚀 More Projects</h2>
 
 <table align="center">
   <tr>
@@ -110,10 +97,9 @@ class ShaileshPatil:
   </tr>
 </table>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/shailesh-23-patil/shailesh-23-patil/main/assets/divider.svg" width="100%" alt="" /></p>
 
-<!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,r,java,cpp,js,ts,mysql,sqlite,flask,pytorch,git,github,vscode&perline=7" alt="skills" />
@@ -130,23 +116,27 @@ class ShaileshPatil:
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/shailesh-23-patil/shailesh-23-patil/main/assets/divider.svg" width="100%" alt="" /></p>
 
-<!-- ===================== ROADMAP ===================== -->
-## 🗺️ My Learning Roadmap
+<h2 align="center">🗺️ My Learning Roadmap</h2>
 
-- [x] Python, data cleaning & Exploratory Data Analysis
-- [x] Regression & classification models (insurance cost, heart disease)
-- [x] First AI application with RAG (CampusGPT)
-- [ ] SQL data-analysis project
-- [ ] Deploy CampusGPT with a live demo
-- [ ] Deep Learning with PyTorch
-- [ ] NLP project
+<div align="center">
 
----
+| Status | Milestone |
+|:---:|:---|
+| ✅ | Python, data cleaning & Exploratory Data Analysis |
+| ✅ | Regression & classification models (insurance cost, heart disease) |
+| ✅ | First AI application with RAG (CampusGPT) |
+| 🔄 | SQL data-analysis project |
+| 🔄 | Deploy CampusGPT with a live demo |
+| ⏳ | Deep Learning with PyTorch |
+| ⏳ | NLP project |
 
-<!-- ===================== STATS ===================== -->
-## 📈 GitHub Activity
+</div>
+
+<p align="center"><img src="https://raw.githubusercontent.com/shailesh-23-patil/shailesh-23-patil/main/assets/divider.svg" width="100%" alt="" /></p>
+
+<h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=shailesh-23-patil&theme=tokyonight&hide_border=true" />
@@ -162,10 +152,9 @@ class ShaileshPatil:
   </picture>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/shailesh-23-patil/shailesh-23-patil/main/assets/divider.svg" width="100%" alt="" /></p>
 
-<!-- ===================== CONTACT ===================== -->
-## 🤝 Let's Connect
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
   Have a data or ML idea, or want to collaborate? I'd love to hear from you.<br/><br/>
@@ -176,5 +165,5 @@ class ShaileshPatil:
 <p align="center"><i>⭐ If something here helped or impressed you, drop a star on my repos!</i></p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=6,11,20&section=footer" alt="footer" />
+  <img src="https://raw.githubusercontent.com/shailesh-23-patil/shailesh-23-patil/main/assets/footer.svg" width="100%" alt="Thanks for stopping by" />
 </p>
