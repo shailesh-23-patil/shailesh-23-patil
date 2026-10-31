@@ -1,11 +1,14 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&section=header&text=Shailesh%20Patil&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%C2%B7%20ML%20%26%20AI%20Builder&descSize=20&descAlignY=60" alt="Shailesh Patil" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=6,11,20&section=header" alt="banner" />
 </p>
+
+<h1 align="center">Hi 👋 I'm Shailesh Patil</h1>
+<h3 align="center">Aspiring Data Scientist · ML &amp; AI Builder</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Turning+raw+data+into+real+insights+%F0%9F%93%8A;Building+AI+tools+like+CampusGPT+%F0%9F%A4%96;Machine+Learning+%7C+Python+%7C+SQL+%F0%9F%90%8D;MCA+Student+%E2%80%A2+Open+to+Internships+%F0%9F%92%BC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+real+insights+%F0%9F%93%8A;Building+AI+tools+like+CampusGPT+%F0%9F%A4%96;MCA+Student+%7C+Always+Learning+%F0%9F%9A%80;Open+to+internships+%26+opportunities+%F0%9F%92%BC" alt="Typing SVG" />
   </a>
 </p>
 
@@ -150,16 +153,14 @@ class ShaileshPatil:
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shailesh-23-patil&theme=tokyonight&hide_border=true&layout=compact&hide=jupyter%20notebook&langs_count=6" />
 </p>
 
-<!--
-  OPTIONAL: Contribution snake animation.
-  1. Add the workflow file .github/workflows/snake.yml (included separately).
-  2. Run it once from the Actions tab.
-  3. Remove these comment markers to show the snake.
-
+<!-- Snake animation: generated daily by .github/workflows/snake.yml -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shailesh-23-patil/shailesh-23-patil/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shailesh-23-patil/shailesh-23-patil/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shailesh-23-patil/shailesh-23-patil/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shailesh-23-patil/shailesh-23-patil/output/github-snake-dark.svg" />
+  </picture>
 </p>
--->
 
 ---
 
